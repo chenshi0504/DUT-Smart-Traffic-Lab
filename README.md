@@ -1,13 +1,13 @@
-# 智慧交通管理与技术应用团队
+# DUT Smart Traffic Lab
 
-> Smart Traffic Management and Technology Application Team
+> Dalian University of Technology - Smart Traffic Laboratory
 
 [![GitHub](https://img.shields.io/badge/GitHub-Team-blue)](https://github.com/YOUR_ORG)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 👥 团队简介
 
-智慧交通管理与技术应用团队致力于城市交通系统的智能化研究与技术创新，聚焦于交通规划、智能控制、车路协同等前沿领域。
+大连理工大学智慧交通实验室致力于城市交通系统的智能化研究与技术创新，聚焦于交通规划、智能控制、车路协同等前沿领域。
 
 **团队负责人**: chenshi_edu@gmail.com
 
